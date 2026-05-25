@@ -1,5 +1,4 @@
 package org.example.GRPC;
-
 import GRPC.*;
 import io.grpc.ManagedChannel;
 import io.grpc.ManagedChannelBuilder;
@@ -7,8 +6,7 @@ import io.grpc.ManagedChannelBuilder;
 import java.util.*;
 import java.io.*;
 
-
-public class danhgiaruiro {
+public class b1GRPC {
     public static void main(String[] args) throws Exception{
         String studentCode ="B22DCCN905";
         String qCode ="YkI9YgAQ";
